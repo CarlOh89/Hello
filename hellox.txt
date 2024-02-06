@@ -1,8 +1,0 @@
-hellox.txt
-Welcome!!!
-Hi!
-Hey!
-Good!
-Hello!
-Good bye!
-THE END.
